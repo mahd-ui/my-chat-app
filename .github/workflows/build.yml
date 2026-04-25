@@ -18,3 +18,4 @@ jobs:
         with:
           name: my-chat-app
           path: build/apk/*.apk
+
